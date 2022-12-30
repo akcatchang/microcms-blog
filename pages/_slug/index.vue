@@ -24,7 +24,7 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<!-- <style lang="scss" scoped>
 .main {
   width: 960px;
   margin: 0 auto;
@@ -65,4 +65,4 @@ export default {
     list-style-position: inside;
   }
 }
-</style>
+</style> -->
